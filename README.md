@@ -4,7 +4,7 @@
 
 ### 💻 Frontend Web Developer | 🎓 BCA Student | 🚀 Freelancer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Web+Developer;Responsive+Website+Designer;HTML+%7C+CSS+%7C+JavaScript;PHP+%7C+MySQL;Learning+MERN+Stack;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Web+Developer;Responsive+Website+Designer;HTML+%7C+CSS+%7C+JavaScript;PHP+%7C+MySQL;Always+Learning+New+Technologies" />
 
 </div>
 
