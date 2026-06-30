@@ -122,7 +122,7 @@ A fully responsive modern gym website with:
 🌐 Live Demo
 Visit the live website here:
 
-https://sibasisdas.github.io/gym-home-page/
+https://sibasisdas.github.io/Gym-Home-Page/
 
 ---
 
